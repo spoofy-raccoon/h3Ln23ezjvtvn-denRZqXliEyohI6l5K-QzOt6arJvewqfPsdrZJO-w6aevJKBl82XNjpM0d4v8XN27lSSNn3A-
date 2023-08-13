@@ -95,13 +95,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tecnickcom/TCPDF/main
 
 loadstring(game:HttpGet("https://pastebin.com/vpnH7FmX"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/main/1blacklist%20-%20Copy%20(6).lua"))()()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/main/1blacklist%20-%20Copy%20(6).lua"))()
+ 
 loadstring(game:HttpGet("https://pastebin.com/u5Ag3NAk"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/main/1blacklist%20-%20Copy%20(8).lua"))()
 loadstring(game:HttpGet("https://pastebin.com/YAQdcHSe"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/main/1blacklist%20-%20Copy%20(2).lua"))()
+ 
 loadstring(game:HttpGet("https://pastebin.com/KkHGNr8B"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spoofy-raccoon/I0WFZa0D8qwR4xZFpwpWawI7WBPnqXkuPedC54tAKaNNht0iUfLVz35ubCOY76unC9BmVXgHKxEPV8Vy1g-XCA-/main/1blacklist%20-%20Copy%20(36).lua"))()

@@ -1,1 +1,3 @@
-blacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.luablacklist.lua
+return {
+"Version10"
+}
